@@ -1,1 +1,4 @@
-# UAS_PENGOLAHAN-CITRA-DIGITAL
+# UAS Pengolahan Citra Digital (SIF202)
+
+- **Nama Lengkap**: Lailatul Isna
+- **NIM**: 24146073
